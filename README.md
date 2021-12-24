@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @infsrc
+- 👀 I’m interested in building front end apps
+- 🌱 I’m currently learning Javascript
+- 📫 Feel free to send any emails to me
